@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DDD/static/css/main.40e4dd9f.chunk.css",
-    "main.js": "/DDD/static/js/main.c6f0f72f.chunk.js",
-    "main.js.map": "/DDD/static/js/main.c6f0f72f.chunk.js.map",
+    "main.css": "/DDD/static/css/main.fef5079d.chunk.css",
+    "main.js": "/DDD/static/js/main.e6027179.chunk.js",
+    "main.js.map": "/DDD/static/js/main.e6027179.chunk.js.map",
     "runtime-main.js": "/DDD/static/js/runtime-main.8544029b.js",
     "runtime-main.js.map": "/DDD/static/js/runtime-main.8544029b.js.map",
-    "static/js/2.5ba5be4e.chunk.js": "/DDD/static/js/2.5ba5be4e.chunk.js",
-    "static/js/2.5ba5be4e.chunk.js.map": "/DDD/static/js/2.5ba5be4e.chunk.js.map",
+    "static/js/2.c0e8a198.chunk.js": "/DDD/static/js/2.c0e8a198.chunk.js",
+    "static/js/2.c0e8a198.chunk.js.map": "/DDD/static/js/2.c0e8a198.chunk.js.map",
     "static/js/3.26191f52.chunk.js": "/DDD/static/js/3.26191f52.chunk.js",
     "static/js/3.26191f52.chunk.js.map": "/DDD/static/js/3.26191f52.chunk.js.map",
     "index.html": "/DDD/index.html",
-    "static/css/main.40e4dd9f.chunk.css.map": "/DDD/static/css/main.40e4dd9f.chunk.css.map",
-    "static/js/2.5ba5be4e.chunk.js.LICENSE.txt": "/DDD/static/js/2.5ba5be4e.chunk.js.LICENSE.txt",
+    "static/css/main.fef5079d.chunk.css.map": "/DDD/static/css/main.fef5079d.chunk.css.map",
+    "static/js/2.c0e8a198.chunk.js.LICENSE.txt": "/DDD/static/js/2.c0e8a198.chunk.js.LICENSE.txt",
     "static/media/1.24f4d486.jpg": "/DDD/static/media/1.24f4d486.jpg",
     "static/media/10.1792e79b.jpg": "/DDD/static/media/10.1792e79b.jpg",
     "static/media/11.ae83eeb5.jpg": "/DDD/static/media/11.ae83eeb5.jpg",
@@ -34,14 +34,16 @@
     "static/media/7.d425141f.jpg": "/DDD/static/media/7.d425141f.jpg",
     "static/media/8.58aedd1e.jpg": "/DDD/static/media/8.58aedd1e.jpg",
     "static/media/9.24e4f576.jpg": "/DDD/static/media/9.24e4f576.jpg",
+    "static/media/Group.a18f4f50.svg": "/DDD/static/media/Group.a18f4f50.svg",
     "static/media/Vector 2.cd2dae8a.svg": "/DDD/static/media/Vector 2.cd2dae8a.svg",
     "static/media/Vector 3.5bc657a7.svg": "/DDD/static/media/Vector 3.5bc657a7.svg",
-    "static/media/ShopCatalog.css": "/DDD/static/media/check.751822c7.svg"
+    "static/media/ShopCatalog.css": "/DDD/static/media/check.751822c7.svg",
+    "static/media/cross.1bf2add2.svg": "/DDD/static/media/cross.1bf2add2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8544029b.js",
-    "static/js/2.5ba5be4e.chunk.js",
-    "static/css/main.40e4dd9f.chunk.css",
-    "static/js/main.c6f0f72f.chunk.js"
+    "static/js/2.c0e8a198.chunk.js",
+    "static/css/main.fef5079d.chunk.css",
+    "static/js/main.e6027179.chunk.js"
   ]
 }
